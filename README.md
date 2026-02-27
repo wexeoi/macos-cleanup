@@ -4,17 +4,17 @@
 
 - запусти скрипт:
 
-```sh
-sh macos-cleanup.sh
-```
-
-или:
-
-```sh
-chmod +x macos-cleanup.sh
-```
-```sh
-./macos-cleanup.sh
-```
+  ```sh
+  sh macos-cleanup.sh
+  ```
+  
+  или:
+  
+  ```sh
+  chmod +x macos-cleanup.sh
+  ```
+  ```sh
+  ./macos-cleanup.sh
+  ```
 
 - подрочи мне
